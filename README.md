@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @gustavoespitia
-- 👀 I’m interested in Power Distribution Systems Analysis
-- 🌱 I’m currently learning Julia Language
-- 💞️ I’m looking to collaborate on Power Distribution Research
-- 📫 How to reach me gustavoespitia @ gmail.com
+- Hi, I’m @gustavoespitia
+- I’m interested in Power Distribution Systems Analysis
+- I’m currently learning Julia Language
+- I’m looking to collaborate on Power Distribution Research
+- How to reach me: gustavoespitia @ gmail.com
 
 <!---
 gustavoespitia/gustavoespitia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
