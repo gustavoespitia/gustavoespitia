@@ -1,7 +1,8 @@
 - Hi, I’m @gustavoespitia
-- I’m interested in Power Distribution Systems Analysis
+- I'm Electrical Engineer with Specialization in Computer Networking
 - I’m currently learning Julia Language
 - I’m looking to collaborate on Power Distribution Research
+- My first public collaboration is [SimpleDistributionPowerFlow.jl](https://github.com/gisel-uninorte/SimpleDistributionPowerFlow.jl/)
 - How to reach me: gespitia @ uninorte.edu.co
 
 <!---
