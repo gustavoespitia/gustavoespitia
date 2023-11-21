@@ -1,5 +1,5 @@
 - Hi, I’m @gustavoespitia
-- I'm Electrical Engineer with Specialization in Computer Networking
+- I'm Electrical Engineer, MsC, with a Specialization in Computer Networking
 - I’m currently learning Julia Language
 - I’m looking to collaborate on Power Distribution Research
 - My first public collaboration is [SimpleDistributionPowerFlow.jl](https://github.com/gisel-uninorte/SimpleDistributionPowerFlow.jl/)
